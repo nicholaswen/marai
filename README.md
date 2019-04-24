@@ -4,7 +4,7 @@ The original implementation can be found here:
 https://medium.com/datadriveninvestor/super-mario-bros-reinforcement-learning-77d6615a805e
 
 # Install virtual environment
-python3 -m venv marai-env
+python3 -m venv marai-env  
 source marai-env/bin/activate
 
 # Install required packages
