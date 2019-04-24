@@ -1,4 +1,4 @@
-This is modified implementation of a Reinforcement Learning bot that tries to solve the first level of SuperMario Bros
+This is a modified implementation of a Reinforcement Learning bot that tries to solve the first level of SuperMario Bros
 
 The original implementation can be found here:
 https://medium.com/datadriveninvestor/super-mario-bros-reinforcement-learning-77d6615a805e
