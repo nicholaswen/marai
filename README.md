@@ -17,8 +17,9 @@ pip3 install -r requirements.txt
 
 # Copy the Super Mario Bros Nes rom to the folder accessible by Gym Retro
 ```
-cp roms/rom.nes marai-env/lib/python3.7/retro/data/stable/SuperMarioBros-Nes
+cp roms/rom.nes marai-env/lib/python3.7/site-packages/retro/data/stable/SuperMarioBros-Nes
 ```
+If this doesn't work then go to your lib folder and find the correct name for the python version folder
 
 # Run the script
 ```
